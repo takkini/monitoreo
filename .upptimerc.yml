@@ -19,7 +19,7 @@ status-website:
   # baseUrl: /your-repo-name
   # TeroRERO logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   logoUrl: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/66001010677/logo/pPWZrSW4eHKCLOBW2YBtn0m-1Yp6zlJa7g.png
-  name: Radar de sistemas de La Razón
+  name: Radar de Servicios
   introTitle: "**RADAR** Monitor de servicios en línea."
   # TeroRERO introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
   introMessage: © Derechos Reservados  2022
