@@ -58,7 +58,7 @@
     "url": "https://www.la-razon.com/login",
     "icon": "https://favicons.githubusercontent.com/www.la-razon.com",
     "slug": "login-lr",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -69,6 +69,8 @@
     "timeWeek": 331,
     "timeMonth": 331,
     "timeYear": 331,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-02-09": 0
+    }
   }
 ]
