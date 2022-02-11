@@ -15,7 +15,7 @@ sites:
     url: https://la-razon.ventas.com.bo
   - name: LR Game
     url: https://game.la-razon.com
-- name: NOVALAB SRL.
+  - name: NOVALAB SRL
     url: https://www.novalabsrl.com
 
 assignees:
