@@ -19,6 +19,12 @@ sites:
 assignees:
   - terorero
 
+# Add downtime notifications
+# https://upptime.js.org/docs/notifications
+notifications:
+  - type: email
+    channel: smtp
+
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
