@@ -27,7 +27,8 @@ status-website:
   introTitle: "**RADAR** Monitor de servicios en línea."
   favicon: https://www.la-razon.com/wp-content/uploads/2020/04/favicon-lr.png
   # TeroRERO introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
-  introMessage: © Derechos Reservados  2022
+  # TeroRERO introMessage: © Derechos Reservados  2022
+  introMessage: © LA RAZÓN - EL EXTRA - IGMC ®2022
   navbar:
     - title: Radar
       href: /
@@ -52,8 +53,8 @@ i18n:
   incidentCommentSummary: Publicado el $DATE por $AUTHOR
   incidentBack: ← Volver a todos los incidentes
   pastIncidents: Incidentes pasados
-  pastIncidentsResolved: Corregido en $MINUTES minutos con $POSTS mensajes
-  liveStatus: Estado en vivo
+  pastIncidentsResolved: Corregido en $MINUTES minutos con $POSTS mensaje(s)
+  liveStatus: Monitoreando en vivo
   overallUptime: "Tiempo de actividad: $UPTIME"
   overallUptimeTitle: Tiempo de actividad global
   averageResponseTime: "Tiempo medio de respuesta: $TIMEms"
@@ -66,7 +67,7 @@ i18n:
   ms: ms
   loading: Cargando
   navGitHub: GitHub
-  footer: © Derechos reservados  2022, powered by [BITACORAROOT](https://www.bitacoraroot.com)
+  footer: © Derechos Reservados | [www.la-razon.com](https://www.la-razon.com)
   rateLimitExceededTitle: Límite de tarifa superado
   rateLimitExceededIntro: Has superado el número de peticiones que puedes hacer en una hora, por lo que tendrás que esperar antes de volver a acceder a este sitio web. Como alternativa, puedes añadir un token de acceso personal de GitHub para seguir utilizando este sitio web.
   rateLimitExceededWhatDoesErrorMean: ¿Qué significa este error?
