@@ -15,8 +15,9 @@ sites:
     url: https://la-razon.ventas.com.bo
   - name: LR Game
     url: https://game.la-razon.com
-  - name: PRUEBA INTERNA
+  - name: POST to Lenz
     url: https://lenz.takkini.eu.org
+    method: POST
 
 assignees:
   - terorero
