@@ -15,10 +15,8 @@ sites:
     url: https://la-razon.ventas.com.bo
   - name: LR Game
     url: https://game.la-razon.com
-  - name: NO EXISTE 2022B SRL
-    url: https://www.nohay2022bo.com
-  - name: NOVALAB SRL
-    url: https://www.novalabsrl.com
+  - name: PRUEBA INTERNA
+    url: https://lenz.takkini.eu.org
 
 assignees:
   - terorero
