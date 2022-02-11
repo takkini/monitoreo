@@ -27,6 +27,7 @@ status-website:
   introTitle: "**RADAR** Monitor de servicios en línea."
   favicon: https://www.la-razon.com/wp-content/uploads/2020/04/favicon-lr.png
   # TeroRERO introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  theme: light 
   # TeroRERO introMessage: © Derechos Reservados  2022
   introMessage: © LA RAZÓN - EL EXTRA - IGMC ®2022
   navbar:
@@ -54,15 +55,15 @@ i18n:
   incidentBack: ← Volver a todos los incidentes
   pastIncidents: Incidentes pasados
   pastIncidentsResolved: Corregido en $MINUTES minutos con $POSTS mensaje(s)
-  liveStatus: Monitoreando en vivo
+  liveStatus: Monitor en vivo
   overallUptime: "Tiempo de actividad: $UPTIME"
   overallUptimeTitle: Tiempo de actividad global
   averageResponseTime: "Tiempo medio de respuesta: $TIMEms"
   averageResponseTimeTitle: Respuesta media
   sevelDayResponseTime: Tiempo de respuesta de 7 días
   responseTimeMs: Tiempo de respuesta (ms)
-  up: Arriba
-  down: Abajo
+  up: Up
+  down: Down
   degraded: Degradado
   ms: ms
   loading: Cargando
