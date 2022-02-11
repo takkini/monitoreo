@@ -27,6 +27,7 @@ status-website:
   logoUrl: https://www.la-razon.com/wp-content/themes/lr-genosha/assets/img/la-razon-logo.png
   name: Radar de Servicios
   introTitle: "**RADAR** Monitor de servicios en línea."
+  favicon: https://www.la-razon.com/wp-content/uploads/2020/04/favicon-lr.png
   # TeroRERO introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
   introMessage: © Derechos Reservados  2022
   navbar:
