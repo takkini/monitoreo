@@ -63,8 +63,8 @@ i18n:
   averageResponseTimeTitle: Respuesta media
   sevelDayResponseTime: Tiempo de respuesta de 7 días
   responseTimeMs: Tiempo de respuesta (ms)
-  up: Up
-  down: Down
+ # TeroRERO desactiva up: Up
+# TeroRERO desactivadown: Down
   degraded: Degradado
   ms: ms
   loading: Cargando
