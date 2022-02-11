@@ -5,10 +5,8 @@ repo: monitor # The name of this repository
 sites:
   - name: La Razón
     url: https://www.la-razon.com
-    icono: https://www.la-razon.com/wp-content/uploads/2020/04/favicon-lr.png
   - name: Login LR
     url: https://www.la-razon.com/login
-    icono: https://www.la-razon.com/wp-content/uploads/2020/04/favicon-lr.png
   - name: El Loro de Oro
     url: https://lorodeoro.la-razon.com
   - name: El Loro de Oro (ADMIN)
@@ -36,5 +34,64 @@ status-website:
     - title: La Razón
       href: https://www.la-razon.com
 
+i18n:
+  # Pasando a spanish locale
+  # TeroRERO
+  activeIncidents: Incidentes Activos
+  allSystemsOperational: Todos los sistemas están operativos
+  incidentReport: "Informe del incidente #$NUMBER →"
+  activeIncidentSummary: Abierto en fecha $DATE con mensajes $POSTS
+  incidentTitle: Incidente $NUMBER Detalles
+  incidentDetails: Detalles del incidente
+  incidentFixed: Fixed
+  incidentOngoing: En curso
+  incidentOpenedAt: Abierto en
+  incidentClosedAt: Cerrado en
+  incidentSubscribe: Suscribirse a las actualizaciones
+  incidentViewOnGitHub: Ver en GitHub
+  incidentCommentSummary: Publicado el $DATE por $AUTHOR
+  incidentBack: ← Volver a todos los incidentes
+  pastIncidents: Incidentes pasados
+  pastIncidentsResolved: Corregido en $MINUTES minutos con $POSTS mensajes
+  liveStatus: Estado en vivo
+  overallUptime: "Tiempo de actividad: $UPTIME"
+  overallUptimeTitle: Tiempo de actividad global
+  averageResponseTime: "Tiempo medio de respuesta: $TIMEms"
+  averageResponseTimeTitle: Respuesta media
+  sevelDayResponseTime: Tiempo de respuesta de 7 días
+  responseTimeMs: Tiempo de respuesta (ms)
+  up: Arriba
+  down: Abajo
+  degraded: Degradado
+  ms: ms
+  loading: Cargando
+  navGitHub: GitHub
+  footer: © Derechos reservados  2022, powered by [BITACORAROOT](https://www.bitacoraroot.com)
+  rateLimitExceededTitle: Límite de tarifa superado
+  rateLimitExceededIntro: Has superado el número de peticiones que puedes hacer en una hora, por lo que tendrás que esperar antes de volver a acceder a este sitio web. Como alternativa, puedes añadir un token de acceso personal de GitHub para seguir utilizando este sitio web.
+  rateLimitExceededWhatDoesErrorMean: ¿Qué significa este error?
+  rateLimitExceededErrorMeaning: Este sitio web utiliza la API de GitHub para acceder a datos en tiempo real sobre el estado de nuestros sitios web. Por defecto, GitHub permite a cada dirección IP 60 peticiones por hora, que tú has consumido.
+  rateLimitExceededErrorHowCanFix: ¿Cómo puedo solucionarlo?
+  rateLimitExceededErrorFix: Puedes esperar una hora más y se restablecerá el límite de tu dirección IP. Alternativamente, puedes añadir tu token de acceso personal de GitHub, que te proporciona 5.000 peticiones adicionales por hora.
+  rateLimitExceededGeneratePAT: Aprende a generar un Token de Acceso Personal
+  rateLimitExceededHasSet: Tienes un token de acceso personal establecido.
+  rateLimitExceededRemoveToken: Quitar token
+  rateLimitExceededGitHubPAT: Token de acceso personal de GitHub
+  rateLimitExceededCopyPastePAT: Copiar y pegar el token
+  rateLimitExceededSaveToken: Guardar token
+  errorTitle: Se ha producido un error
+  errorIntro: Se ha producido un error al intentar obtener los últimos detalles de estado.
+  errorText: Puede volver a intentarlo en unos momentos.
+  errorHome: Ir a la página de inicio
+  pastScheduledMaintenance: Mantenimiento programado pasado
+  scheduledMaintenance: Mantenimiento programado
+  scheduledMaintenanceSummaryStarted: Comenzó en $DATE durante $DURATION minutos
+  scheduledMaintenanceSummaryStarts: Comienza en $DATE durante $DURATION minutos
+  startedAt: Comenzó en
+  startsAt: Comienza en
+  duration: Duración
+  durationMin: $DURATION minutos
+  incidentCompleted: Completado
+  incidentScheduled: Programado
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
