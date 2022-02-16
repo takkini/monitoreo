@@ -23,11 +23,11 @@
     "icon": "https://favicons.githubusercontent.com/www.la-razon.com",
     "slug": "login-lr",
     "status": "up",
-    "uptime": "99.68%",
+    "uptime": "99.70%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.51%",
-    "uptimeMonth": "99.68%",
-    "uptimeYear": "99.68%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.70%",
+    "uptimeYear": "99.70%",
     "time": 313,
     "timeDay": 252,
     "timeWeek": 309,
@@ -78,9 +78,9 @@
     "url": "https://la-razon.ventas.com.bo",
     "icon": "https://favicons.githubusercontent.com/la-razon.ventas.com.bo",
     "slug": "lr-store",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -89,7 +89,9 @@
     "timeWeek": 1041,
     "timeMonth": 1045,
     "timeYear": 1045,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-02-16": 0
+    }
   },
   {
     "name": "LR Game",
@@ -126,7 +128,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-02-16": 40,
+      "2022-02-16": 1291,
       "2022-02-15": 1440,
       "2022-02-14": 1440,
       "2022-02-13": 1440,
