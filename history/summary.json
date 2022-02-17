@@ -4,10 +4,10 @@
     "url": "https://www.la-razon.com",
     "icon": "https://favicons.githubusercontent.com/www.la-razon.com",
     "slug": "la-razon",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 257,
@@ -15,7 +15,9 @@
     "timeWeek": 277,
     "timeMonth": 257,
     "timeYear": 257,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-02-17": 1
+    }
   },
   {
     "name": "Login LR",
@@ -23,18 +25,18 @@
     "icon": "https://favicons.githubusercontent.com/www.la-razon.com",
     "slug": "login-lr",
     "status": "down",
-    "uptime": "99.72%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.72%",
-    "uptimeYear": "99.72%",
+    "uptime": "99.62%",
+    "uptimeDay": "98.81%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.62%",
+    "uptimeYear": "99.62%",
     "time": 312,
     "timeDay": 278,
     "timeWeek": 308,
     "timeMonth": 312,
     "timeYear": 312,
     "dailyMinutesDown": {
-      "2022-02-17": 0,
+      "2022-02-17": 17,
       "2022-02-09": 50
     }
   },
@@ -127,7 +129,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-02-17": 852,
+      "2022-02-17": 868,
       "2022-02-16": 1440,
       "2022-02-15": 1440,
       "2022-02-14": 1440,
