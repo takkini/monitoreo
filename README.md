@@ -26,7 +26,7 @@ With [Upptime](https://upptime.js.org), you can get your own unlimited and free 
 
 <!--end: status pages-->
 
-[**Visit our status website →**](https://radar.takkini.eu.org)
+[**Visite nuestro monitor web →**](https://radar.takkini.eu.org)
 
 ## 📄 License
 
