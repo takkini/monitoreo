@@ -1,6 +1,6 @@
 # [📈 Live Status](https://radar.takkini.eu.org): <!--live status--> **🟧 Partial outage**
 
-This repository contains the open-source uptime monitor and status page for [TeroRERO](http://www.devinconde.com), powered by [Upptime](https://github.com/upptime/upptime).
+This repository contains the open-source uptime monitor and status page for [TeroRERO](http://www.devinconde.com), Basado en [Upptime](https://github.com/upptime/upptime).
 
 [![Uptime CI](https://github.com/terorero/monitor/workflows/Uptime%20CI/badge.svg)](https://github.com/terorero/monitor/actions?query=workflow%3A%22Uptime+CI%22)
 [![Response Time CI](https://github.com/terorero/monitor/workflows/Response%20Time%20CI/badge.svg)](https://github.com/terorero/monitor/actions?query=workflow%3A%22Response+Time+CI%22)
