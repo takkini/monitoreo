@@ -15,8 +15,6 @@ sites:
     url: https://la-razon.ventas.com.bo
   - name: LR Game
     url: https://game.la-razon.com
-  - name: NOVALABSRL 22
-    url: https://www.novalabsrl.com
 
 assignees:
   - terorero
