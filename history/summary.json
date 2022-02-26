@@ -43,10 +43,10 @@
     "url": "https://lorodeoro.la-razon.com",
     "icon": "https://favicons.githubusercontent.com/lorodeoro.la-razon.com",
     "slug": "el-loro-de-oro",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1626,
@@ -54,17 +54,19 @@
     "timeWeek": 1003,
     "timeMonth": 1626,
     "timeYear": 1626,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-02-26": 1
+    }
   },
   {
     "name": "El Loro de Oro (ADMIN)",
     "url": "https://pa-admin.la-razon.com",
     "icon": "https://favicons.githubusercontent.com/pa-admin.la-razon.com",
     "slug": "el-loro-de-oro-admin",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 724,
@@ -72,7 +74,9 @@
     "timeWeek": 654,
     "timeMonth": 724,
     "timeYear": 724,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-02-26": 1
+    }
   },
   {
     "name": "LR Store",
@@ -97,9 +101,9 @@
     "url": "https://game.la-razon.com",
     "icon": "https://favicons.githubusercontent.com/game.la-razon.com",
     "slug": "lr-game",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -108,6 +112,8 @@
     "timeWeek": 682,
     "timeMonth": 1006,
     "timeYear": 1006,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-02-26": 0
+    }
   }
 ]
