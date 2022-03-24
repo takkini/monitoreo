@@ -1,6 +1,6 @@
 # [📈 Estado en vivo](https://radar.takkini.eu.org): <!--live status--> **Todos los sistemas están operativos**
 
-This repository contains the open-source uptime monitor and status page for [TeroRERO](http://www.devinconde.com), Basado en [Upptime](https://github.com/upptime/upptime).
+Bienvenidos al monitor de actividad y la página de estado de [TeroRERO](http://www.devinconde.com), Basado en [Upptime](https://github.com/upptime/upptime).
 
 [![Uptime CI](https://github.com/terorero/monitor/workflows/Uptime%20CI/badge.svg)](https://github.com/terorero/monitor/actions?query=workflow%3A%22Uptime+CI%22)
 [![Response Time CI](https://github.com/terorero/monitor/workflows/Response%20Time%20CI/badge.svg)](https://github.com/terorero/monitor/actions?query=workflow%3A%22Response+Time+CI%22)
