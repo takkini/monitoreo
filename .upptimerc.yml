@@ -11,9 +11,9 @@ sites:
     url: https://lorodeoro.la-razon.com
   - name: El Loro de Oro (ADMIN)
     url: https://pa-admin.la-razon.com
-  - name: LR Store
+  - name: Store LR
     url: https://la-razon.ventas.com.bo
-  - name: LR Game
+  - name: Game LR
     url: https://game.la-razon.com
 
 assignees:
