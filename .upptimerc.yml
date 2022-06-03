@@ -11,8 +11,8 @@ sites:
     url: https://lorodeoro.la-razon.com
   - name: El Loro de Oro (ADMIN)
     url: https://pa-admin.la-razon.com
-  - name: Vision External
-    url: https://go.root24.eu.org/Vision
+  - name: Storage TT
+    url: https://storage.root24.eu.org
   - name: Home DCM
     url: https://home.devinconde.com
 
