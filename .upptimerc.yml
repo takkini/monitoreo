@@ -11,10 +11,10 @@ sites:
     url: https://lorodeoro.la-razon.com
   - name: El Loro de Oro (ADMIN)
     url: https://pa-admin.la-razon.com
-  - name: Store LR
-    url: https://la-razon.ventas.com.bo
-  - name: Game LR
-    url: https://game.la-razon.com
+  - name: Vision External
+    url: https://go.root24.eu.org/Vision
+  - name: Home DCM
+    url: https://home.devinconde.com
 
 assignees:
   - terorero
