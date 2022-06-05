@@ -43,9 +43,9 @@
     "url": "https://lorodeoro.la-razon.com",
     "icon": "https://favicons.githubusercontent.com/lorodeoro.la-razon.com",
     "slug": "el-loro-de-oro",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
@@ -55,6 +55,7 @@
     "timeMonth": 1017,
     "timeYear": 1469,
     "dailyMinutesDown": {
+      "2022-06-05": 0,
       "2022-02-26": 70
     }
   },
