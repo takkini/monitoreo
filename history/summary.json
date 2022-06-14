@@ -109,19 +109,19 @@
     "url": "https://home.devinconde.com",
     "icon": "https://favicons.githubusercontent.com/home.devinconde.com",
     "slug": "home-dcm",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 927,
-    "timeDay": 448,
-    "timeWeek": 881,
-    "timeMonth": 927,
-    "timeYear": 927,
+    "status": "up",
+    "uptime": "99.83%",
+    "uptimeDay": "98.16%",
+    "uptimeWeek": "99.74%",
+    "uptimeMonth": "99.83%",
+    "uptimeYear": "99.83%",
+    "time": 943,
+    "timeDay": 685,
+    "timeWeek": 912,
+    "timeMonth": 943,
+    "timeYear": 943,
     "dailyMinutesDown": {
-      "2022-06-14": 0
+      "2022-06-14": 26
     }
   }
 ]
