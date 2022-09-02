@@ -12,9 +12,9 @@ sites:
   - name: El Loro de Oro (ADMIN)
     url: https://pa-admin.la-razon.com
   - name: Storage TT
-    url: https://storage.root24.eu.org
-  - name: Home DCM
-    url: https://home.devinconde.com
+    url: https://storage.soporte.eu.org
+  - name: TransTurin Website
+    url: https://home.transturin.com
 
 assignees:
   - terorero
