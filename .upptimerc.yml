@@ -14,7 +14,7 @@ sites:
   - name: Storage TT
     url: https://storage.soporte.eu.org
   - name: TransTurin Website
-    url: https://home.transturin.com
+    url: https://www.transturin.com
 
 assignees:
   - terorero
