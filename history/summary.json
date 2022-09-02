@@ -113,7 +113,7 @@
     "slug": "storage-tt",
     "status": "up",
     "uptime": "64.48%",
-    "uptimeDay": "0.26%",
+    "uptimeDay": "0.27%",
     "uptimeWeek": "0.04%",
     "uptimeMonth": "15.68%",
     "uptimeYear": "64.48%",
@@ -172,18 +172,16 @@
     "icon": "https://favicons.githubusercontent.com/www.transturin.com",
     "slug": "trans-turin-website",
     "status": "up",
-    "uptime": "2.98%",
-    "uptimeDay": "2.98%",
-    "uptimeWeek": "2.98%",
-    "uptimeMonth": "2.98%",
-    "uptimeYear": "2.98%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 2172,
     "timeDay": 2172,
     "timeWeek": 2172,
     "timeMonth": 2172,
     "timeYear": 2172,
-    "dailyMinutesDown": {
-      "2022-09-02": 4
-    }
+    "dailyMinutesDown": {}
   }
 ]
