@@ -15,9 +15,11 @@ sites:
     url: https://storage.soporte.eu.org
   - name: TransTurin Website
     url: https://www.transturin.com
-  - name: Titicaca Catamarans Website
+  - name: Titicaca Catamarans
     url: https://titicacacatamarans.com
-
+  - name: Ventas Inmediatas
+    url: https://ventasinmediatas.transturin.com
+    
 assignees:
   - terorero
 
