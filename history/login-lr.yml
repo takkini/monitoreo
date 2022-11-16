@@ -1,7 +1,7 @@
 url: https://www.la-razon.com/login
-status: down
-code: 503
-responseTime: 13
-lastUpdated: 2022-11-16T09:57:55.110Z
+status: up
+code: 200
+responseTime: 431
+lastUpdated: 2022-11-16T10:25:55.094Z
 startTime: Sat Feb 05 2022 07:59:03 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
