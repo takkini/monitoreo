@@ -42,8 +42,8 @@ status-website:
   # TeroRERO introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
   # TeroRERO themes : Available themes are light, dark, night or ocean.
   theme: dark  
-  # TeroRERO introMessage: © Derechos Reservados  2022
-  introMessage: © LA RAZÓN - EL EXTRA - IGMC ®2022
+  # TeroRERO introMessage: © Derechos Reservados  2023
+  introMessage: © LA RAZÓN - EL EXTRA - IGMC ®2023
   navbar:
     - title: Radar
       href: /
