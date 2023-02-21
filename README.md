@@ -1,4 +1,4 @@
-# [📈 Estado en vivo](https://radar.takkini.eu.org): <!--live status--> **Todos los sistemas están operativos**
+# [📈 Estado en vivo](https://radar.takkini.eu.org): <!--live status--> **Los sistemas están operativos al 100**
 
 Bienvenidos al monitor de actividad y la página de estado de [TeroRERO](http://www.devinconde.com), Basado en [Upptime](https://github.com/upptime/upptime).
 
