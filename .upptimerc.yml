@@ -10,9 +10,9 @@ sites:
   - name: El Loro de Oro
     url: https://lorodeoro.la-razon.com
   - name: El Loro de Oro (ADMIN)
-    url: https://pa-admin.la-razon.com
-  - name: Storage TT
-    url: https://storage.soporte.eu.org
+    url: https://lorodeoro.la-razon.com/admin
+  - name: LR-Sisetic
+    url: https://larazon.sisetic.com
   - name: TransTurin Website
     url: https://www.transturin.com
   - name: Titicaca Catamarans
