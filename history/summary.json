@@ -229,19 +229,19 @@
     "url": "https://paper.la-razon.com",
     "icon": "https://icons.duckduckgo.com/ip3/paper.la-razon.com.ico",
     "slug": "paper-flip-lr",
-    "status": "down",
-    "uptime": "53.91%",
-    "uptimeDay": "53.91%",
-    "uptimeWeek": "53.91%",
-    "uptimeMonth": "53.91%",
-    "uptimeYear": "53.91%",
-    "time": 204,
-    "timeDay": 204,
-    "timeWeek": 204,
-    "timeMonth": 204,
-    "timeYear": 204,
+    "status": "up",
+    "uptime": "40.76%",
+    "uptimeDay": "40.76%",
+    "uptimeWeek": "40.76%",
+    "uptimeMonth": "40.76%",
+    "uptimeYear": "40.76%",
+    "time": 173,
+    "timeDay": 173,
+    "timeWeek": 173,
+    "timeMonth": 173,
+    "timeYear": 173,
     "dailyMinutesDown": {
-      "2023-07-02": 6
+      "2023-07-02": 10
     }
   },
   {
