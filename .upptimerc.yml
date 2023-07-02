@@ -54,7 +54,8 @@ i18n:
   # Pasando a spanish locale
   # TeroRERO
   activeIncidents: Incidentes Activos
-  allSystemsOperational: Todos los sistemas están operativos
+# allSystemsOperational: Todos los sistemas están operativos
+  allSystemsOperational: "🟩 Todos los sistemas operativos"
   incidentReport: "Informe del incidente #$NUMBER →"
   activeIncidentSummary: Abierto en fecha $DATE con mensajes $POSTS
   incidentTitle: Incidente $NUMBER Detalles
@@ -76,9 +77,14 @@ i18n:
   averageResponseTimeTitle: Respuesta media
   sevelDayResponseTime: Tiempo de respuesta de 7 días
   responseTimeMs: Tiempo de respuesta (ms)
- # TeroRERO desactiva up: Up
+# TeroRERO desactiva up: Up
 # TeroRERO desactivadown: Down
-  degraded: Degradado
+# degraded: Degradado
+# TeroRERO INICIO
+  degradedPerformance: "🟨 Rendimiento degradado"
+  completeOutage: "🟥 Interrupción completa"
+  partialOutage: "🟧 Interrupción parcial"
+# TeroRERO FINAL
   ms: ms
   loading: Cargando
   navGitHub: GitHub
